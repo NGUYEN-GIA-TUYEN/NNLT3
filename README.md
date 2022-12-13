@@ -6,7 +6,7 @@
 - [bai 3.4](jdoodle.com/a/5D8f)
 
 ## phan btlt if else
--[bai 1] (jdoodle.com/a/5B2E)
--[bai 2] (jdoodle.com/a/5B2Y)
--[bai 3] (jdoodle.com/a/5D8r)
--[bai 4] (jdoodle.com/a/5D8s)
+-[bai 1](jdoodle.com/a/5B2E)
+-[bai 2](jdoodle.com/a/5B2Y)
+-[bai 3](jdoodle.com/a/5D8r)
+-[bai 4](jdoodle.com/a/5D8s)
