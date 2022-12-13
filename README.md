@@ -1,5 +1,5 @@
 # NNLT3
-## phan if else
+## [phan if else](https://hoctructuyencntt.github.io/NNLT/Bai03.html)
 - [bai 3.1](https://www.jdoodle.com/embed/v0/5Az1)
 - [bai 3.2](https://www.jdoodle.com/embed/v0/5D8d)
 - [bai 3.3](https://www.jdoodle.com/embed/v0/5Az0)
