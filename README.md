@@ -6,7 +6,7 @@
 - [bai 3.4](https://www.jdoodle.com/embed/v0/5D8f)
 
 ## phan btlt if else
--[bai 1](https://www.jdoodle.com/embed/v0/5B2E)
--[bai 2](https://www.jdoodle.com/embed/v0/5B2Y)
--[bai 3](https://www.jdoodle.com/embed/v0/5D8r)
--[bai 4](https://www.jdoodle.com/embed/v0/5D8s)
+- [bai 1](https://www.jdoodle.com/embed/v0/5B2E)
+- [bai 2](https://www.jdoodle.com/embed/v0/5B2Y)
+- [bai 3](https://www.jdoodle.com/embed/v0/5D8r)
+- [bai 4](https://www.jdoodle.com/embed/v0/5D8s)
