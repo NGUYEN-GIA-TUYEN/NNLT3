@@ -10,3 +10,7 @@
 - [bai 2](https://www.jdoodle.com/embed/v0/5B2Y)
 - [bai 3](https://www.jdoodle.com/embed/v0/5D8r)
 - [bai 4](https://www.jdoodle.com/embed/v0/5D8s)
+
+## [bai kiemtra1,2] (https://www.jdoodle.com/c-online-compiler/)
+- [bai 1th](https://www.jdoodle.com/embed/v0/5F2t)
+- [bai 2th](https://www.jdoodle.com/embed/v0/5F2x)
