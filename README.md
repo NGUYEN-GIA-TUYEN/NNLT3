@@ -14,3 +14,7 @@
 ## [bai kiemtra1,2]
 - [bai 1th](https://www.jdoodle.com/embed/v0/5F2t)
 - [bai 2th](https://www.jdoodle.com/embed/v0/5F2x)
+
+### [bai ngoai le]
+- [bai tinh so tay](https://www.jdoodle.com/embed/v0/5ydD)
+- [bai so nguyen](https://www.jdoodle.com/embed/v0/5AwP)
