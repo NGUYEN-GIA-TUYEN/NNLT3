@@ -18,3 +18,8 @@
 ### [bai ngoai le]
 - [bai tinh so tay](https://www.jdoodle.com/embed/v0/5ydD)
 - [bai so nguyen](https://www.jdoodle.com/embed/v0/5AwP)
+
+# [Bài tập lập trình of bài 4]
+- [bai 3 if, switch](https://www.jdoodle.com/embed/v0/5FTW)
+- [bai 2
+- [bai 3 for, while, do/while](https://www.jdoodle.com/embed/v0/5FTY)
