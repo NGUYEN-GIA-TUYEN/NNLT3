@@ -21,5 +21,5 @@
 
 # [Bài tập lập trình of bài 4](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
 - [bai 3 if, switch](https://www.jdoodle.com/embed/v0/5FTW)
-- [bai 2
+- [bai 2 for, while, do/while](https://www.jdoodle.com/embed/v0/5FUh)
 - [bai 3 for, while, do/while](https://www.jdoodle.com/embed/v0/5FTY)
