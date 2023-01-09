@@ -32,3 +32,8 @@
 ## [HÀM](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
 - [bai 1 hàm tong](https://www.jdoodle.com/a/5HLJ)
 - [bai 2 hàm hoanvi](https://www.jdoodle.com/a/5HLN)
+
+
+## [MẢNG](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
+- [bai 1  ](
+- [bai 2  ](
