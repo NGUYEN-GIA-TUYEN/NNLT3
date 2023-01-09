@@ -25,4 +25,5 @@
 - [bai 3 for, while, do/while](https://www.jdoodle.com/embed/v0/5FTY)
 - [bai tap tren lop](https://www.jdoodle.com/embed/v0/5FUx)
 
--[bài 1](https://www.jdoodle.com/a/5HLs)
+-[bài 1yêu cầu người dùng nhập vào điểm của một học sinh từ 0 đến 10 và hiển thị thông báo theo quy tắc
+](https://www.jdoodle.com/a/5HLs)
