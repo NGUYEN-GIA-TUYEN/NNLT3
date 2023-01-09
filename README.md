@@ -29,5 +29,5 @@
 ](https://www.jdoodle.com/a/5HLs)
 
 
-## [HÀM]
+## [HÀM](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
 [bai 1 hàm tong](https://www.jdoodle.com/a/5HLJ)
