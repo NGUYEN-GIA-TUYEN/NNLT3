@@ -35,5 +35,6 @@
 
 
 ## [MẢNG](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
-- [bai 1  ](
-- [bai 2  ](
+
+
+# [BÀI THI 10/1/2023](https://www.jdoodle.com/a/5I4e)
